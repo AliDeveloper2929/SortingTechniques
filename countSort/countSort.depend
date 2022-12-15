@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1667548436 source:/home/muhammadali/Desktop/AbdulBariLessons/SortingTechniques/countSort/main.c
+	<stdio.h>
+	<stdlib.h>
+

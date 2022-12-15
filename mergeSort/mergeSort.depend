@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1667407747 source:/home/muhammadali/Desktop/AbdulBariLessons/SortingTechniques/mergeSort/main.c
+	<stdio.h>
+	<stdlib.h>
+
